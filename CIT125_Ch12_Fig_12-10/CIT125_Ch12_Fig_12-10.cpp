@@ -1,6 +1,6 @@
 // CIT125 Intro To C++ Luigi Robles
 // 08-01-2020 Summer Term
-// Ch.12 Figure 12-10 Pay rate
+// Ch.12 Pg.439 Fig.12-10 Pay rate
 // Wilson Company Program
 // Display pay rate according to code entered by user
 
